@@ -5,4 +5,4 @@ app = Flask(__name__)
 
 @app.route('/')
 def yo():
-    return '<p>yo yo new version</p>'
+    return '<p>added staging pipeline</p>'
